@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.android.support:design:22.2.1@aar">
+    <ANNOTATIONS>
+      <root url="jar:///var/autofs/misc/home/antsa/.gradle/caches/transforms-2/files-2.1/98551371910764714ade7b89cc59d7e3/design-22.2.1/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar:///var/autofs/misc/home/antsa/.gradle/caches/transforms-2/files-2.1/98551371910764714ade7b89cc59d7e3/design-22.2.1/jars/classes.jar!/" />
+      <root url="file:///var/autofs/misc/home/antsa/.gradle/caches/transforms-2/files-2.1/98551371910764714ade7b89cc59d7e3/design-22.2.1/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
