@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/var/autofs/misc/home/antsa/Documents/m5-assignment-birthday-probability-skeleton/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-am/values-am.xml",
+            "outputFile": "/Users/macbookpro/Documents/coding/java/antsa/m5-assignment-birthday-probability-skeleton/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-am/values-am.xml",
             "map": [
                 {
-                    "source": "/var/autofs/misc/home/antsa/.gradle/caches/transforms-2/files-2.1/507b2a278342197bf7d836eca80745e3/appcompat-v7-22.2.1/res/values-am/values-am.xml",
+                    "source": "/Users/macbookpro/.gradle/caches/transforms-2/files-2.1/507b2a278342197bf7d836eca80745e3/appcompat-v7-22.2.1/res/values-am/values-am.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",

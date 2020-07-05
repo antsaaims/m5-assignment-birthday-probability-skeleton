@@ -6,36 +6,36 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="22"
-8-->/var/autofs/misc/home/antsa/Documents/m5-assignment-birthday-probability-skeleton/app/src/main/AndroidManifest.xml
+8-->/Users/macbookpro/Documents/coding/java/antsa/m5-assignment-birthday-probability-skeleton/app/src/main/AndroidManifest.xml
 9        android:targetSdkVersion="22" />
-9-->/var/autofs/misc/home/antsa/Documents/m5-assignment-birthday-probability-skeleton/app/src/main/AndroidManifest.xml
+9-->/Users/macbookpro/Documents/coding/java/antsa/m5-assignment-birthday-probability-skeleton/app/src/main/AndroidManifest.xml
 10
 11    <application
-11-->/var/autofs/misc/home/antsa/Documents/m5-assignment-birthday-probability-skeleton/app/src/main/AndroidManifest.xml:5:5-18:19
+11-->/Users/macbookpro/Documents/coding/java/antsa/m5-assignment-birthday-probability-skeleton/app/src/main/AndroidManifest.xml:5:5-18:19
 12        android:allowBackup="true"
-12-->/var/autofs/misc/home/antsa/Documents/m5-assignment-birthday-probability-skeleton/app/src/main/AndroidManifest.xml:6:9-35
+12-->/Users/macbookpro/Documents/coding/java/antsa/m5-assignment-birthday-probability-skeleton/app/src/main/AndroidManifest.xml:6:9-35
 13        android:debuggable="true"
 14        android:icon="@mipmap/ic_launcher"
-14-->/var/autofs/misc/home/antsa/Documents/m5-assignment-birthday-probability-skeleton/app/src/main/AndroidManifest.xml:7:9-43
+14-->/Users/macbookpro/Documents/coding/java/antsa/m5-assignment-birthday-probability-skeleton/app/src/main/AndroidManifest.xml:7:9-43
 15        android:label="@string/app_name"
-15-->/var/autofs/misc/home/antsa/Documents/m5-assignment-birthday-probability-skeleton/app/src/main/AndroidManifest.xml:8:9-41
+15-->/Users/macbookpro/Documents/coding/java/antsa/m5-assignment-birthday-probability-skeleton/app/src/main/AndroidManifest.xml:8:9-41
 16        android:supportsRtl="true"
-16-->/var/autofs/misc/home/antsa/Documents/m5-assignment-birthday-probability-skeleton/app/src/main/AndroidManifest.xml:9:9-35
+16-->/Users/macbookpro/Documents/coding/java/antsa/m5-assignment-birthday-probability-skeleton/app/src/main/AndroidManifest.xml:9:9-35
 17        android:testOnly="true"
 18        android:theme="@style/AppTheme" >
-18-->/var/autofs/misc/home/antsa/Documents/m5-assignment-birthday-probability-skeleton/app/src/main/AndroidManifest.xml:10:9-40
+18-->/Users/macbookpro/Documents/coding/java/antsa/m5-assignment-birthday-probability-skeleton/app/src/main/AndroidManifest.xml:10:9-40
 19        <activity android:name="mooc.vandy.java4android.birthdayprob.ui.MainActivity" >
-19-->/var/autofs/misc/home/antsa/Documents/m5-assignment-birthday-probability-skeleton/app/src/main/AndroidManifest.xml:11:9-17:20
-19-->/var/autofs/misc/home/antsa/Documents/m5-assignment-birthday-probability-skeleton/app/src/main/AndroidManifest.xml:11:19-86
+19-->/Users/macbookpro/Documents/coding/java/antsa/m5-assignment-birthday-probability-skeleton/app/src/main/AndroidManifest.xml:11:9-17:20
+19-->/Users/macbookpro/Documents/coding/java/antsa/m5-assignment-birthday-probability-skeleton/app/src/main/AndroidManifest.xml:11:19-86
 20            <intent-filter>
-20-->/var/autofs/misc/home/antsa/Documents/m5-assignment-birthday-probability-skeleton/app/src/main/AndroidManifest.xml:12:13-16:29
+20-->/Users/macbookpro/Documents/coding/java/antsa/m5-assignment-birthday-probability-skeleton/app/src/main/AndroidManifest.xml:12:13-16:29
 21                <action android:name="android.intent.action.MAIN" />
-21-->/var/autofs/misc/home/antsa/Documents/m5-assignment-birthday-probability-skeleton/app/src/main/AndroidManifest.xml:13:17-69
-21-->/var/autofs/misc/home/antsa/Documents/m5-assignment-birthday-probability-skeleton/app/src/main/AndroidManifest.xml:13:25-66
+21-->/Users/macbookpro/Documents/coding/java/antsa/m5-assignment-birthday-probability-skeleton/app/src/main/AndroidManifest.xml:13:17-69
+21-->/Users/macbookpro/Documents/coding/java/antsa/m5-assignment-birthday-probability-skeleton/app/src/main/AndroidManifest.xml:13:25-66
 22
 23                <category android:name="android.intent.category.LAUNCHER" />
-23-->/var/autofs/misc/home/antsa/Documents/m5-assignment-birthday-probability-skeleton/app/src/main/AndroidManifest.xml:15:17-77
-23-->/var/autofs/misc/home/antsa/Documents/m5-assignment-birthday-probability-skeleton/app/src/main/AndroidManifest.xml:15:27-74
+23-->/Users/macbookpro/Documents/coding/java/antsa/m5-assignment-birthday-probability-skeleton/app/src/main/AndroidManifest.xml:15:17-77
+23-->/Users/macbookpro/Documents/coding/java/antsa/m5-assignment-birthday-probability-skeleton/app/src/main/AndroidManifest.xml:15:27-74
 24            </intent-filter>
 25        </activity>
 26    </application>
