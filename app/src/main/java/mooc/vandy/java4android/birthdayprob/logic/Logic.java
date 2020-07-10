@@ -115,7 +115,7 @@ public class Logic
         List<Integer> birthdayarray = new ArrayList<Integer>();
         for(int i=1; i<=size;i++ )
         {
-            birthdayarray.add(rnd.nextInt(364));
+            birthdayarray.add(rnd.nextInt(365));
         }
         return  birthdayarray;
     }
